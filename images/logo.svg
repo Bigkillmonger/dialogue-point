@@ -1,0 +1,39 @@
+<svg width="90" height="70" viewBox="0 0 90 70" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Grey speech bubble -->
+    <path
+        d="M18 8
+           C9 8 3 15 3 24
+           C3 34 10 40 19 40
+           H25
+           L19 54
+           L32 41
+           H36
+           C45 41 51 34 51 24
+           C51 15 45 8 36 8
+           Z"
+        fill="none"
+        stroke="#7a8792"
+        stroke-width="5"
+        stroke-linejoin="round"
+    />
+
+    <!-- Blue speech bubble -->
+    <path
+        d="M54 18
+           C45 18 39 25 39 34
+           C39 44 46 50 55 50
+           H61
+           L55 64
+           L68 51
+           H72
+           C81 51 87 44 87 34
+           C87 25 81 18 72 18
+           Z"
+        fill="none"
+        stroke="#1f5fae"
+        stroke-width="5"
+        stroke-linejoin="round"
+    />
+
+</svg>

@@ -1,0 +1,49 @@
+<svg width="520" height="420" viewBox="0 0 520 420" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Soft background circle -->
+    <circle
+        cx="260"
+        cy="210"
+        r="165"
+        fill="#eef3f7"
+    />
+
+    <!-- Grey conversation path -->
+    <path
+        d="M115 270
+           C135 170 205 125 270 155
+           C325 180 350 225 400 210"
+        fill="none"
+        stroke="#8796a3"
+        stroke-width="28"
+        stroke-linecap="round"
+    />
+
+    <!-- Blue conversation path -->
+    <path
+        d="M120 190
+           C180 285 250 295 315 245
+           C355 215 380 165 415 145"
+        fill="none"
+        stroke="#1f5fae"
+        stroke-width="28"
+        stroke-linecap="round"
+    />
+
+    <!-- Small blue accent -->
+    <circle
+        cx="415"
+        cy="145"
+        r="14"
+        fill="#1f5fae"
+    />
+
+    <!-- Small grey accent -->
+    <circle
+        cx="115"
+        cy="270"
+        r="14"
+        fill="#8796a3"
+    />
+
+</svg>
